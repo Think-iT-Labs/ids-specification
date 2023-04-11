@@ -155,9 +155,9 @@ The `TransferSuspensionMessage` is sent by the provider or consumer when either 
 
 ![](./message/diagram/transfer-completion-message.png)
 
-**Sent by**:
+**Sent by**: Provider or Consumer
 
-**Resulting State**:
+**Resulting State**: COMPLETED
 
 **Example**: [TransferCompletionMessage](./message/transfer-completion-message.json)
 
